@@ -7,7 +7,7 @@
   &nbsp
   <img align="center" alt="Luiz-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   &nbsp
-  <img align="center" alt="Luiz-Rust" height="35" width="35" src="https://cdn.discordapp.com/attachments/1098016829408030800/1098027058656981223/df9mcer6d5zwj9hebqkk.png">
+  <img align="center" alt="Luiz-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   &nbsp
   <img align="center" alt="Luiz-Delphi" height="35" width="35" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
   <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098016829408030800/1098033952574418944/imgbin-software-developer-computer-servers-programmer-web-developer-computer-software-others-zn1RJ2GbU813xHZYWhqV02q3A_1.png?width=676&height=676">
