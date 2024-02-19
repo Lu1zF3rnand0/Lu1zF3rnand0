@@ -9,7 +9,7 @@
   &nbsp
   <img align="center" alt="Luiz-Kotlin" height="35" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg">
   &nbsp
-  <img align="center" alt="Luiz-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg">
+  <img align="center" alt="Luiz-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python3/python.svg">
   <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098016829408030800/1098033952574418944/imgbin-software-developer-computer-servers-programmer-web-developer-computer-software-others-zn1RJ2GbU813xHZYWhqV02q3A_1.png?width=676&height=676">
 </div>
   
