@@ -1,7 +1,7 @@
 ## Opa, sou o Luiz Fernando, desenvolvedor back-end.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Java" height="40" width="35" src="https://cdn.discordapp.com/attachments/1098016829408030800/1098025171278905416/58480979cef1014c0b5e4901.png">
+  <img align="center" alt="Luiz-Java" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   &nbsp
   <img align="center" alt="Luiz-Go" height="40" width="30" src="https://user-images.githubusercontent.com/7717507/232924007-9f1a1ad8-d19a-4a29-ac42-3cdf9b98f3e7.png">
   &nbsp
