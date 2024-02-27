@@ -7,7 +7,8 @@
   &nbsp
   <img align="center" alt="Luiz-Kotlin" height="35" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg">
   <img align="center" alt="Luiz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098016829408030800/1098033952574418944/imgbin-software-developer-computer-servers-programmer-web-developer-computer-software-others-zn1RJ2GbU813xHZYWhqV02q3A_1.png?width=676&height=676">
+  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1098016829408030800/1098033952574418944/imgbin-software-developer-computer-servers-programmer-web-developer-computer-software-others-zn1RJ2GbU813xHZYWhqV02q3A_1.png?ex=65e7b0ce&is=65d53bce&hm=8158ed792b38ce6ddf6a945ca2bf4b4ebc84d1aee2d399f437a7034d162d7227&=&format=webp&quality=lossless?width=676&height=676">
+ 
 </div>
   
   ##
